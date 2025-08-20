@@ -7,7 +7,7 @@ Object geneticAlgorythm contains such methods as:
 
 -crossing- program randomly chooses 2 individuals, combines genotypes of each individual and then creates feature of new individuals
 
--mutations- program goes through each chromosome of all individual's features and chooses if mutate the chromosomes or not.
+-mutations- program goes through each chromosome of all individual's features and chooses if mutate the chromosomes or not. Mutation is just changing bool value of chromosome to opposite
 
 -objectiveFunction- program calculates each individual's objectiveFunction, with declared factors.
 
